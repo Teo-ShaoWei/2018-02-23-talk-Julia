@@ -1,7 +1,10 @@
-# Julia?
+# What I like about Julia
+
+I did this talk at:-
+
+1. 2018-02-23: Informal OD @ ESTL
 
 Interested to give Julia a quick try? Here are some helpful info =)
-
 
 ## Install
 
