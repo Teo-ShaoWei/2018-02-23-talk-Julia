@@ -1,6 +1,8 @@
 # What I like about Julia
 
-I did this talk at:-
+This is a superficial sharing of the aspects of Julia that I like
+
+I did a variation of this sharing at:-
 
 1. 2018-02-23: Informal OD @ ESTL
 
